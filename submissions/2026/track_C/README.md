@@ -10,7 +10,7 @@ This folder contains the submission code for **Track C: Edge AI**.
 愿你的模型运行飞快、轻量高效、智能可靠，并成功部署！
 May your models run fast, stay light, think smart, and deploy successfully!
 
-## **基于原生 Termux 移动端的 Gemma AI 模型**
+## **基于原生 Termux 移动端本地部署 Gemma AI **
 ##  ** ==本地部署技术报告== **
 ---
 ### 参赛团队(个人): 张江江人工智能开发者
